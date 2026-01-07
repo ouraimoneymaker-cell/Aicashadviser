@@ -1,0 +1,7 @@
+"""API routes package for AICashAdvisor backend.
+
+This file marks the ``backend.api`` directory as a Python package so that
+relative imports from ``backend.main`` work correctly. It can also be
+used to expose high-level API components or perform package‑level
+initialisation if needed in the future.
+"""
