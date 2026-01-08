@@ -1,6 +1,0 @@
-"""Database package for AICashAdvisor backend.
-
-This module marks the ``backend.db`` directory as a Python package. It
-allows modules such as ``backend.main`` to import the database models,
-schemas and session management via relative imports (e.g., ``from . import models``).
-"""
