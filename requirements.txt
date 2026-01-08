@@ -1,8 +1,7 @@
-
 fastapi
 uvicorn[standard]
-pydantic>=1.10,<2.0
 sqlalchemy>=1.4
-reportlab
-openai
+pydantic
 python-multipart
+reportlab   # optional, for PDF reports
+openai      # optional, for narrative generation
